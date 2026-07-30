@@ -51,13 +51,15 @@
 
 ---
 
-## 5. Số liệu đo (AI-assisted, Activity 2)
+## 5. Số liệu đo
 
-Số liệu đo lường hiệu quả của AI trong khâu Phân tích nguyên nhân gốc rễ (Root Cause Analysis) cho lỗi BUG-SEC-001
-
-- AI Time: 1.5 phút | Human Review Time: 2.0 phút | Manual Est.: 15.0 phút
-- Effective time saved: ~11.5 phút/lần phân tích (15.0 − 3.5 phút, tương đương ~77%)
-- Hallucination rate: 0/1 (0%) − AI tuân thủ strict rules, không tự đề xuất root cause khi chưa đủ bằng chứng
+| Bước / Chỉ số      | Đo lường / Nội dung            | Giải thích                                                                                                       |
+| :----------------- | :----------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| AI Time            | **5.0 phút**                   | AI hỗ trợ đọc dữ liệu test, tổng hợp kết quả, phân tích rủi ro và dự thảo nội dung báo cáo                       |
+| Human Review       | **20.0 phút**                  | Kiểm tra, đối soát số liệu, đánh giá rủi ro PII/pháp lý và đưa ra quyết định chiến lược **NO-GO cho Production** |
+| Manual Est.        | **45.0 phút**                  | Thời gian ước tính nếu Tester phải tự thu thập log, tổng hợp số liệu từ đầu và tự soạn thảo toàn bộ báo cáo      |
+| Saved Time         | **~20.0 phút** _(giảm ~44.4%)_ | Tiết kiệm gần một nửa thời gian hoàn tất báo cáo và ra quyết định nhờ có AI hỗ trợ                               |
+| Hallucination Rate | **0% (0/1)**                   | AI tuân thủ strict rules, trích xuất chính xác số liệu test thực tế và không tự bịa ra thông tin                 |
 
 ---
 
