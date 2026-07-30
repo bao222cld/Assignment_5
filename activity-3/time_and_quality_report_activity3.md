@@ -1,7 +1,3 @@
-Dựa trên đúng format và dữ liệu từ **Hoạt động 3 (Root Cause Hypotheses)** mà nhóm bạn đã thực hiện cho lỗi rò rỉ PII, đây là bản báo cáo đo lường chi tiết:
-
----
-
 # TIME_AND_QUALITY_REPORT.md
 
 ## Đo lường thời gian & chất lượng – Hoạt động 3: Root Cause Hypotheses (RCA)
