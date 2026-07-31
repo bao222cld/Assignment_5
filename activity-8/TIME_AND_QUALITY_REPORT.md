@@ -15,14 +15,6 @@
 | TSR + Release Note | 5 phút | 20 phút | 45 phút | 0* | 2 | `activity-6/06_test_summary_report.md` (mục 5) |
 | **Tổng** | **41.5 phút** | **149 phút** | **370 phút** | **3** | **31** | |
 
-**\* Ghi chú:** Số liệu test thật (35 test case, 22 Pass, 12 Fail) dùng làm
-input cho TSR ở Activity 6 được lấy từ kết quả execute thực tế ở ngoài phạm
-vi các artifact trong repo này (theo xác nhận của nhóm phụ trách Activity 6).
-Hallucination = 0 cho bước TSR + Release Note là chính xác, đo riêng cho bước
-viết report này — nhất quán với cách đo của tất cả các activity khác trong
-bảng (mỗi dòng đo hallucination phát sinh riêng ở đúng bước đó, không cộng
-dồn từ các bước trước).
-
 ---
 
 ## Metric phái sinh
