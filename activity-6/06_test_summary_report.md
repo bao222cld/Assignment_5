@@ -68,3 +68,4 @@
 - `02_ai_bug_analysis.md` – Activity 2: AI Bug Analysis
 - `04_verification_log_H1_H2.md`, `04_verification_log_H3_H4_H5.md`, `04_verification_log_summary.md` – Activity 4: Human Verification
 - `05_bug_report.md` – Bug Report BUG-SEC-001
+- `TestCase_Booking_App_v1.0`:https://docs.google.com/spreadsheets/d/10kuffNl3mEK-5PRlWLXpGxVZonQgDDcfQMhlR5m5Cu0/edit?gid=1395495974#gid=1395495974
